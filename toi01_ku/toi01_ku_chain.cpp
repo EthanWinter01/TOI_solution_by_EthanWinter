@@ -1,5 +1,7 @@
 /*
 TASK: Word Chain (toi1_chain & 1000)
+TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_chain
+             https://beta.programming.in.th/tasks/1000
 LANG: C++
 AUTHOR: EthanWinter
 WRITTEN ON: 11/04/2023
