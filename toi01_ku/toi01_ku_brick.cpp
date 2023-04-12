@@ -3,7 +3,7 @@ TASK: Brick (toi1_brick & 1001)
 TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_brick
              https://beta.programming.in.th/tasks/1001
 LANG: C++
-AUTHOR: EthanWinter
+AUTHOR: EthanWinter (Thanpisit Naowapradit)
 WRITTEN ON: 11/04/2023
 */
 
