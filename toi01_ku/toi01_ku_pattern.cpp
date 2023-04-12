@@ -3,6 +3,7 @@ TASK: Pattern (toi1_pattern)
 TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_pattern
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
+CENTER: Prince Songkla University, Pattani Campus (PTN)
 WRITTEN ON: 12/04/2023
 */
 
