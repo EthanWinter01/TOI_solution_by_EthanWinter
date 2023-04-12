@@ -3,7 +3,7 @@ TASK: Nugget Number (toi1_nugget & 1003)
 TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_nugget
              https://beta.programming.in.th/tasks/1003
 LANG: C++
-AUTHOR: EthanWinter
+AUTHOR: EthanWinter (Thanpisit Naowapradit)
 WRITTEN ON: 11/04/2023
 */
 
