@@ -4,6 +4,7 @@ TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_brick
              https://beta.programming.in.th/tasks/1001
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
+CENTER: Prince Songkla University, Pattani Campus (PTN)
 WRITTEN ON: 11/04/2023
 */
 
