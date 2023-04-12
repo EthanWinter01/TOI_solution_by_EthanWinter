@@ -4,6 +4,7 @@ TASK_SOURCE: https://beta.programming.in.th/tasks/toi2_skyline
              https://beta.programming.in.th/tasks/1008
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
+CENTER: Prince Songkla University, Pattani Campus (PTN)
 WRITTEN ON: 12/04/2023
 */
 
