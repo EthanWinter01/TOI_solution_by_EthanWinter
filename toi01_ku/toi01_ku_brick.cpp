@@ -1,7 +1,7 @@
 /*
 TASK: Brick (toi1_brick & 1001)
 LANG: C++
-AUTHOR: EthanWinter0
+AUTHOR: EthanWinter01
 WRITTEN ON: 11/04/2023
 */
 
