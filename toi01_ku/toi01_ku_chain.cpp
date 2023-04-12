@@ -1,11 +1,7 @@
 /*
-CONTEST: 1st POSN - Olympiad in Informatics, 2005
-HOST: Kasetsart University, Bangkok
 TASK: Word Chain (toi1_chain & 1000)
 LANG: C++
-AUTHOR: Mr.Thanpisit Naowapradit
-CENTER: Prince Songkla University, Pattani Campus
-SCHOOL: Phimanpittayasan School, Satun
+AUTHOR: EthanWinter
 WRITTEN ON: 11/04/2023
 */
 
