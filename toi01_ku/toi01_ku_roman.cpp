@@ -3,7 +3,7 @@ TASK: Roman (toi1_roman & 1002)
 TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_roman
              https://beta.programming.in.th/tasks/1002
 LANG: C++
-AUTHOR: EthanWinter
+AUTHOR: EthanWinter (Thanpisit Naowapradit)
 WRITTEN ON: 11/04/2023
 */
 
