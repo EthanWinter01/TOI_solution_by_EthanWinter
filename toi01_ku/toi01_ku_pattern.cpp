@@ -1,11 +1,8 @@
 /*
-CONTEST: 1st POSN - Olympiad in Informatics, 2005
-HOST: Kasetsart University, Bangkok
 TASK: Pattern (toi1_pattern)
+TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_pattern
 LANG: C++
-AUTHOR: Mr.Thanpisit Naowapradit
-CENTER: Prince Songkla University, Pattani Campus
-SCHOOL: Phimanpittayasan School
+AUTHOR: EthanWinter
 WRITTEN ON: 12/04/2023
 */
 
