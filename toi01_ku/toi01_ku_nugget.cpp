@@ -1,7 +1,7 @@
 /*
-CONTEST: 1st POSN - Olympiad in Informatics
-HOST: Kasetsart University, Bangkok
 TASK: Nugget Number (toi1_nugget & 1003)
+TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_nugget
+             https://beta.programming.in.th/tasks/1003
 LANG: C++
 AUTHOR: Mr.Thanpisit Naowapradit
 CENTER: Prince Songkla University, Pattani Campus
