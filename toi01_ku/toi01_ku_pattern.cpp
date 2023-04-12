@@ -2,7 +2,7 @@
 TASK: Pattern (toi1_pattern)
 TASK_SOURCE: https://beta.programming.in.th/tasks/toi1_pattern
 LANG: C++
-AUTHOR: EthanWinter
+AUTHOR: EthanWinter (Thanpisit Naowapradit)
 WRITTEN ON: 12/04/2023
 */
 
