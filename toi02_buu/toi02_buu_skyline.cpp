@@ -1,9 +1,11 @@
 /*
 TASK: Skyline (toi2_skyline & 1008)
 SOURCE:
+    https://beta.programming.in.th/tasks/toi2_skyline
+    https://beta.programming.in.th/tasks/1008
 LANG: C++
-AUTHOR: Mr.Thanpisit Naowapradit
-CENTER: Prince Songkla University, Pattani Campus
+AUTHOR: EthanWinter (Thanpisit Naowapradit)
+CENTER: Prince Songkla University, Pattani Campus (PTN)
 WRITTEN ON: 12/04/2023
 */
 
