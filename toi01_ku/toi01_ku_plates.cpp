@@ -1,6 +1,4 @@
 /*
-CONTEST: 1th POSN - Olympiad in Informatics, 2005
-HOST: Kasetsart University, Bangkok
 TASK: Plates (toi1_plate & 1004)
 SOURCE: 
     https://beta.programming.in.th/tasks/toi1_plate
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 12/04/2023
 */
 
