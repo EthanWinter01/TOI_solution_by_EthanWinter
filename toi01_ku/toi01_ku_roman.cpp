@@ -1,6 +1,4 @@
 /*
-CONTEST: 1st POSN - Olympiad in Informatics, 2005
-HOST: Kasetsart University, Bangkok
 TASK: Roman (toi1_roman & 1002)
 SOURCE: 
     https://beta.programming.in.th/tasks/toi1_roman
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-SCHOOL: Phimanpittayasan School
 WRITTEN ON: 11/04/2023
 */
 
