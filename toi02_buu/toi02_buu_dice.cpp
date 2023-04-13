@@ -1,6 +1,4 @@
 /*
-CONTEST: 2nd POSN - Olympiad in Informatics
-HOST: Burapha University, Chonburi
 TASK: Dice (toi2_dice & 1006)
 SOURCE:
     https://beta.programming.in.th/tasks/toi2_dice
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 12/04/2023
 */
 
