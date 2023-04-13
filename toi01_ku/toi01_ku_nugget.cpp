@@ -1,6 +1,4 @@
 /*
-CONTEST: 1st POSN - Olympiad in Informatics
-HOST: Kasetsart University, Bangkok
 TASK: Nugget Number (toi1_nugget & 1003)
 SOURCE: 
     https://beta.programming.in.th/tasks/toi1_nugget
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 11/04/2023
 */
 
