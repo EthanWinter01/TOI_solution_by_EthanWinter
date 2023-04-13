@@ -1,6 +1,4 @@
 /*
-CONTEST: 3rd POSN - Olympiad in Informatics, 2007
-HOST: Khon Khaen University, Khon Khaen
 TASK: Tiling (toi3_tiling & 1014)
 SOURCE:
     https://beta.programming.in.th/tasks/toi3_tiling
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 13/04/2023
 */
 
