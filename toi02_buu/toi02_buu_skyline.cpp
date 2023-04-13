@@ -1,12 +1,9 @@
 /*
-CONTEST: 2nd POSN - Olympiad in Informatics
-HOST: Burapha University, Chonburi
 TASK: Skyline (toi2_skyline & 1008)
 SOURCE:
 LANG: C++
 AUTHOR: Mr.Thanpisit Naowapradit
 CENTER: Prince Songkla University, Pattani Campus
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 12/04/2023
 */
 
