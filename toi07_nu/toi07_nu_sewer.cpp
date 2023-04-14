@@ -1,5 +1,5 @@
 /*
-TASK: Space (toi7_sewer & 1161)
+TASK: Sewer (toi7_sewer & 1161)
 SOURCE:
     https://beta.programming.in.th/tasks/toi7_sewer
     https://beta.programming.in.th/tasks/1161
