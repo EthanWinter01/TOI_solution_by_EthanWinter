@@ -1,13 +1,10 @@
 /*
-CONTEST: 11th Thailand Olympiad in Informatics, 2015
-HOST: Prince Songkla University, Pattani Campus, Trang
 TASK: Sacred Place (toi11_place)
 TASK_SOURCE:
     https://beta.programming.in.th/tasks/toi11_place
 LANG: C++
 AUTHOR: Mr.Thanpisit Naowapradit
 CENTER: Prince Songkla University, Pattani Campus
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 12/04/2023
 */
 
