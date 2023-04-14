@@ -1,6 +1,4 @@
 /*
-CONTEST: 7th Thailand Olympiad in Informatics, 2011
-HOST: Naresuan University, Phitsanulok
 TASK: Food (toi7_food & 0039)
 SOURCE:
     https://beta.programming.in.th/tasks/toi7_food
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN: 13/04/2023
 */
 
