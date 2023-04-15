@@ -1,6 +1,4 @@
 /*
-CONTEST: 4th POSN - Olympiad in Informatics, 2008
-HOST: Suranaree University of Technology, Nakhonratchasrima
 TASK: Chromartie Mountain (toi4_mountain & 1060)
 SOURCE:
     https://beta.programming.in.th/tasks/toi4_mountain
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 15/04/2023
 */
 
