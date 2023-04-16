@@ -1,6 +1,4 @@
 /*
-CONTEST: 2nd POSN - Olympiad in Informatics, 2006
-HOST: Burapha University, Chonburi
 TASK: Max Sequence (toi2_maxseq & 1005)
 SOURCE:
     https://beta.programming.in.th/tasks/toi2_maxseq
@@ -8,7 +6,6 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 16/04/2023
 */
 
