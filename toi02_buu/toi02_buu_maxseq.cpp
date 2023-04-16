@@ -1,12 +1,15 @@
 /*
-TASK: Dice (toi2_dice & 1006)
+CONTEST: 2nd POSN - Olympiad in Informatics, 2006
+HOST: Burapha University, Chonburi
+TASK: Max Sequence (toi2_maxseq & 1005)
 SOURCE:
-    https://beta.programming.in.th/tasks/toi2_dice
-    https://beta.programming.in.th/tasks/1006
+    https://beta.programming.in.th/tasks/toi2_maxseq
+    https://beta.programming.in.th/tasks/1005
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
-WRITTEN ON: 12/04/2023
+SCHOOL: Phimanpittayasan School, Satun
+WRITTEN ON: 16/04/2023
 */
 
 #include <bits/stdc++.h>
