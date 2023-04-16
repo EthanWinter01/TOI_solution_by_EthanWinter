@@ -1,3 +1,13 @@
+/*
+TASK: Fortress (toi10_fortress)
+SOURCE: 
+    https://beta.programming.in.th/tasks/toi10_fortress
+LANG: C++
+AUTHOR: EthanWinter (Thanpisit Naowapradit)
+CENTER: Prince Songkla University, Pattani Campus
+WRITTEN ON: 16/04/2023
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main(void){
