@@ -1,10 +1,13 @@
 /*
+CONTEST: 11th Thailand Olympiad in Informatics, 2015
+HOST: Prince Songkla University, Pattani Campus, Trang
 TASK: Candle Light Prayer (toi11_candle)
 TASK_SOURCE:
     https://beta.programming.in.th/tasks/toi11_candle
 LANG: C++
 AUTHOR: Mr.Thanpisit Naowapradit
 CENTER: Prince Songkla University, Pattani Campus
+SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 12/04/2023
 */
 
