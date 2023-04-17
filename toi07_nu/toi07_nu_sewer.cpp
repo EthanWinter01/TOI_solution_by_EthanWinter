@@ -1,4 +1,6 @@
 /*
+CONTEST: 7th Thailand Olympiad in Informatics, 2011
+HOST: Naresuan University, Phitsanulok
 TASK: Sewer (toi7_sewer & 1161)
 SOURCE:
     https://beta.programming.in.th/tasks/toi7_sewer
@@ -6,6 +8,7 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
+SCHOOL: Phimanpittayasan School, Satun
 WRITTEN: 14/04/2023
 */
 
