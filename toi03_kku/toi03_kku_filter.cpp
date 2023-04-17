@@ -1,4 +1,6 @@
 /*
+CONTEST: 3rd POSN - Olympiad in Informatics, 2007
+HOST: Khon Khaen University, Khon Khaen
 TASK: Filter (toi3_filter & 1014)
 SOURCE:
     https://beta.programming.in.th/tasks/toi3_filter
@@ -6,6 +8,7 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
+SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 13/04/2023
 */
 
