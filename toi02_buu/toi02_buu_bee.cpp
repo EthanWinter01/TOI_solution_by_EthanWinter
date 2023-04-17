@@ -1,4 +1,6 @@
 /*
+CONTEST: 2nd POSN - Olympiad in Informatics, 2006
+HOST: Burapha University, Chonburi
 TASK: Bee (toi2_bee & 1007)
 SOURCE: 
     https://beta.programming.in.th/tasks/toi2_bee
@@ -6,6 +8,7 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
+SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 13/04/2023
 */
 
