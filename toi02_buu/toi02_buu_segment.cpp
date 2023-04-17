@@ -1,4 +1,6 @@
 /*
+CONTEST: 2nd POSN - Olympiad in Informatics, 2006
+HOST: Burapha University, Chonburi
 TASK: Segment (toi2_segment & 1009)
 SOURCE:
     https://beta.programming.in.th/tasks/toi2_segment
@@ -6,6 +8,7 @@ SOURCE:
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus (PTN)
+SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 17/04/2023
 */
 
