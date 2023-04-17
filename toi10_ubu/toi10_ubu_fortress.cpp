@@ -1,10 +1,13 @@
 /*
+CONTEST: 10th Thailand Olympiad in Informatics, 2014
+HOST: Ubon Ratchathani University, Ubon Ratchathani
 TASK: Fortress (toi10_fortress)
 SOURCE: 
     https://beta.programming.in.th/tasks/toi10_fortress
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus
+SCHOOL: Phimanpittayasan School, Satun
 WRITTEN ON: 16/04/2023
 */
 
