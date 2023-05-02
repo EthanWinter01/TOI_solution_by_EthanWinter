@@ -13,5 +13,5 @@ CENTER: Prince Songkla University, Pattani Campus
 
 STATUS
 FINISH: 1 2 4
-WIP: 3 5 6 7 8 10 11 13 15 17 18
-NO PROGRESS: 9 12 16
+// WIP: 3 5 6 7 8 10 11 13 15 17 18
+// NO PROGRESS: 9 12 16
