@@ -8,57 +8,55 @@ LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus
 SCHOOL: Phimanpittayasan School, Satun
-WRITTEN ON: 19/04/2023
+WRITTEN ON: 05/05/2023
 */
 
 #include <bits/stdc++.h>
-#define MAX 100001
+#define MAX_LEVEL 10001
+#define MAX_NODE 100001
 using namespace std;
-vector<vector<int>> level(MAX);
-vector<vector<int>> graph(MAX);
-vector<int> color(MAX);
-int cnt = 0;
-bool dfs(int currNode){
-    if (color[currNode]==1)
+int N,K,T,L,P;
+vector<vector<int>> level(MAX_LEVEL);
+vector<vector<int>> adj(MAX_NODE);
+vector<int> color(MAX_NODE);
+bool dfs(int u){
+    if (color[u] == 1)
         return true;
-    if (color[currNode]==2)
+    if (color[u] == 2)
         return false;
-    color[currNode] = 1;
-    cnt++;
-    for (auto it : graph[currNode]){
-        if (dfs(it))
+    color[u] = 1;
+    for (auto v : adj[u]){
+        if (dfs(v))
             return true;
     }
-    color[currNode] = 2;
-    return false; 
+    color[u] = 2;
+    --T;
+    return false;
 }
 int main(void){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int N,K,T;
     cin >> N >> K >> T;
     for (int i=1; i<=N; i++){
-        int L,P,p;
         cin >> L >> P;
-        level[L].push_back(i);
         while (P--){
+            int p;
             cin >> p;
-            graph[i].push_back(p);
+            adj[i].push_back(p);
         }
+        level[L].push_back(i);
     }
+    int finish = 0;
     bool foundCycle = false;
-    int techLevel = 0;
     for (int i=1; i<=K; i++){
-        for (auto l : level[i]){
-            if (!color[l]){
-                if (dfs(l))
-                    foundCycle = true;
-            }
+        for (auto j : level[i]){
+            if (!color[j] && dfs(j))
+                foundCycle = true;
         }
-        if (foundCycle || cnt>T)
+        if (foundCycle || T<0)
             break;
-        techLevel = i;
+        finish = i;
     }
-    cout<<(techLevel==0? -1: techLevel);
+    cout << (finish==0?-1:finish);
     return 0;
 }
