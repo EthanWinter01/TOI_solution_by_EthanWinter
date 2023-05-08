@@ -1,4 +1,18 @@
-// 90/100
+// UNFINISH : 90/100
+
+/*
+CONTEST: 3rd POSN - Olympiad in Informatics, 2007
+HOST: Khon Khaen University, Khon Khaen
+TASK: Block Game (toi3_block & 1011)
+SOURCE:
+    https://beta.programming.in.th/tasks/toi3_block
+    https://beta.programming.in.th/tasks/1011
+LANG: C++
+AUTHOR: EthanWinter (Thanpisit Naowapradit)
+CENTER: Prince Songkla University, Pattani Campus (PTN)
+SCHOOL: Phimanpittayasan School, Satun
+WRITTEN ON: XX/XX/2023
+*/
 
 #include <bits/stdc++.h>
 #define f first
