@@ -1,9 +1,9 @@
 /*
 CONTEST: 13th Thailand Olympiad in Informatics, 2017
 HOST: Mahidol Wittayanusorn & Mahidol University, Nakhon Pathom
-TASK: Timer Switch (toi13_timerswitch)
+TASK: Budget Travelling (toi13_traveler)
 SOURCE:
-    https://beta.programming.in.th/tasks/toi13_timerswitch
+    https://beta.programming.in.th/tasks/toi13_traveler
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus
