@@ -1,14 +1,14 @@
 /*
 CONTEST: 14th Thailand Olympiad in Informatics, 2018
 HOST: King Mongkut's University of Technology, North Bangkok, Bangkok
-TASK: Technology (toi11_logistics) 
+TASK: Logistics (toi14_logistics) 
 SOURCE: 
     https://beta.programming.in.th/tasks/toi14_logistics
 LANG: C++
 AUTHOR: EthanWinter (Thanpisit Naowapradit)
 CENTER: Prince Songkla University, Pattani Campus
 SCHOOL: Phimanpittayasan School, Satun
-WRITTEN ON: 19/04/2023
+WRITTEN ON: 05/05/2023
 */
 
 #include <bits/stdc++.h>
