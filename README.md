@@ -13,6 +13,6 @@ CENTER: *Prince Songkla University, Pattani Campus*  <br />
 #Once visit TOI18 and now I'm going to TOI19  <br />
 
 # STATUS
-FINISH: 1 2 4 17 <br />
-WIP: 3 5 6 7 8 10 11 12 13 15 16 18 <br />
+FINISH: 1 2 4 6 11 17 <br />
+WIP: 3 5 7 8 10 12 13 15 16 18 <br />
 NO PROGRESS: 9 <br />
