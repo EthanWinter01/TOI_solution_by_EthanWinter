@@ -1,8 +1,8 @@
 # TOI_solution_by_EthanWinter
 
 This is collection of my solution code for competitive programmings problems.
-Now I currently doing on ex-TOI (Thailand Olympiad in Informatics) problems
-and laters, I will provide solution for another Computer Olympiad as well.
+Now I currently doing on TOI (Thailand Olympiad in Informatics) problems, 
+TUMSO (Triam Udom Mathematics and Science Olympiad), Olympics IPST problems.
 
 Hope this repository do help you! Thanks for reading.
 
